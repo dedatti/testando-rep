@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-image:linear-gradient(to right, black, grey) ;
+}
+
+h1 {
+    color: beige;
+    font: italic bolder 3em Arial;
+}
+
+h2 {
+    color: beige;
+    font: italic bolder 2em Arial;
+}
+
+p {
+    color: aliceblue;
+    font: italic lighter 1em Arial;
+}
